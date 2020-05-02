@@ -1,0 +1,9 @@
+# Note: to enable this alias on "sudo su" create a symlink by running "sudo ln -s ~/.aliases /root/.aliases"
+
+alias gs='git status'
+alias gc='git commit -m'
+alias ga='git add'
+alias gp='git push'
+alias vpn='protonvpn c -f'
+alias supdate='dnf update -y && flatpak update -y'
+alias sudo='sudo '
